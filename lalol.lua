@@ -1,4 +1,3 @@
--- Protected by Mnx Obfuscator | Public Enemy
 local a6sMvnMkyfSidHA=math.floor(6)
 local ha4U3NjRzehfMqV6YO=type(nil)
 if false then error("") end
